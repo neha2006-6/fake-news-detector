@@ -5,7 +5,7 @@ article or headline is REAL or FAKE using Natural Language
 Processing (NLP) and Logistic Regression.
 
 ## 🌐 Live Demo
-[Click here to try the app!](https://fake-news-detector-uwiqgmw62jupwnqcctwkmc.streamlit.app/)
+[Click here to try the app!]([https://fake-news-detector-uwiqgmw62jupwnqcctwkmc.streamlit.app/](https://fake-news-detector-uwiqgmw62jupwnqcctwkmc.streamlit.app/))
 
 ## 📌 About the Project
 In today's world, fake news spreads faster than real news.
