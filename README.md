@@ -29,4 +29,9 @@ classifying news articles as real or fake using ML.
 - Algorithm: Logistic Regression
 - Vectorization: TF-IDF (5000 features)
 - Accuracy: ~95%
--
+- Dataset: 40,000+ news articles
+
+## 👩‍💻 Developer
+Neha Megharaja Gujaran
+- GitHub: github.com/neha2006-6
+- LinkedIn: linkedin.com/in/nehamgujaran
